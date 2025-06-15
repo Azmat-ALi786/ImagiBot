@@ -1,0 +1,7 @@
+
+{
+  "name": "ImagiBot",
+  "description": "An AI-powered agent to help creators brainstorm and generate engaging video script ideas and detailed image prompts using Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
